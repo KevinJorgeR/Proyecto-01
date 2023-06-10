@@ -2,7 +2,7 @@
 Cree una vista de formulario con todos los requirimientos que me pidieron debe tener 3 campos :
 
 - Nombre
-- Correo electronico
+- Correo electrónico
 - Numero random
 
 ## Resultado
