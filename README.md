@@ -5,7 +5,7 @@ Cree una vista de formulario con todos los requirimientos que me pidieron debe t
 - Correo electronico
 - Numero random
 
-# Elaboración
+# Resultado
 
 ![image](https://user-images.githubusercontent.com/125482171/219109873-a37c00b3-2ca1-4b31-828d-ad519adb089a.png)
 
