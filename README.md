@@ -1,9 +1,9 @@
 # Proyecto 01 - Creación de un Formulario
 Cree una vista de formulario con todos los requirimientos que me pidieron debe tener 3 campos :
 
-Nombre
-Correo electronico
-Numero random.
+- Nombre
+- Correo electronico
+- Numero random
 
 Acontinuación, el proyecto elaborado.
 
