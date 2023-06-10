@@ -3,7 +3,7 @@ Cree una vista de formulario con todos los requirimientos que me pidieron debe t
 
 - Nombre
 - Correo electrónico
-- Numero random
+- Número random
 
 ## Resultado
 
