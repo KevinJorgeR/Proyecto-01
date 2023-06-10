@@ -1,24 +1,29 @@
 # Creación de un Formulario
-Cree una vista de formulario con todos los requirimientos que me pidieron debe tener 3 campos :
+Crea una vista de formulario con todos los requisitos solicitados, debe tener 3 campos:
 
 - Nombre
 - Correo electrónico
-- Número random
+- Número aleatorio
 
 ## Resultado
 
 ![image](https://user-images.githubusercontent.com/125482171/219109873-a37c00b3-2ca1-4b31-828d-ad519adb089a.png)
 
 ## Datos a tener en cuenta
-- Al ingresar a la página el número random se creará automaticamente
-- Al actualizar la págino el número random cambiará
-- los campos estan validados correctamente
+- Al ingresar a la página, el número aleatorio se creará automáticamente.
+- Al actualizar la página, el número aleatorio cambiará.
+- Los campos están validados correctamente.
 
-## Conclusion
-Este proyecto fue desarrollado mediante las herramientas: html, javascript y CSS con el propósito de elaborar un buen formulario y que quede lo mas perfecto posible,
-en este proyecto hemos usado el html para poder crear primero el formulario con los respectivos campos solicitados y sus validaciones correspondientes luego usamos el
-CSS para dar estilos a los campos, a las letras, al panel donde estara el formulario, por último, use javacript para poner cumplir con el requisito del tercer campo llamado
-"Número random" con la function getRandomNumber() y así hemos logrado el objetivo de este trabajo desarrollado de la mejor forma, gracias.
+## Conclusión
+Este proyecto fue desarrollado utilizando las herramientas HTML, JavaScript y CSS, con el propósito de crear un formulario de calidad y que se vea lo más perfecto posible. En este proyecto, hemos utilizado HTML para crear primero el formulario con los campos solicitados y sus correspondientes validaciones. Luego, utilizamos CSS para dar estilo a los campos, las letras y el panel donde se encuentra el formulario. Por último, utilizamos JavaScript para cumplir con el requisito del tercer campo llamado "Número aleatorio", mediante la función getRandomNumber(). De esta manera, hemos logrado el objetivo de este trabajo, desarrollándolo de la mejor forma posible. 
+¡Gracias!
+
+
+
+
+
+
+
 
 
 
